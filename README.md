@@ -75,6 +75,12 @@ nombre = "Lucía"
 print("Hola, " + nombre + "!")
 ```
 
+# Ejercicios Finales
+
+[Ejercicio 1](https://github.com/camila649/ejercicio_1.git)
+
+[Ejercicio 2](https://github.com/camila649/ejercicio_2.git)
+
 
 
   
